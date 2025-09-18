@@ -542,7 +542,7 @@ song.album
 # => "25"
 ```
 
-Excellent! Run `learn test` now to pass the tests and submit the assignment.
+Excellent! Run `bin/rspec` now to pass the tests and submit the assignment.
 
 ## Conclusion
 
